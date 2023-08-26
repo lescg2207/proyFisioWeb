@@ -6,6 +6,6 @@
     <title>Login</title>
 </head>
 <body>
-    Hola que
+    Hola que tal
 </body>
 </html>
